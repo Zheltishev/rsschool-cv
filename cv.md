@@ -5,7 +5,7 @@
  * **Email:** zheltishev-georgii@mail.ru
  * **GitHub:** [zheltishev](https://github.com/Zheltishev)
 
- ![photo](/image/photo.jpg "photo")
+ ![photo](image/photo.jpg "photo")
 
 ***
 
