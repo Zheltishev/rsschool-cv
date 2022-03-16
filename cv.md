@@ -6,10 +6,12 @@
  * **GitHub:** [zheltishev](https://github.com/Zheltishev)
 
  ![photo](/image/photo.jpg "photo")
+
 ***
 
 ### About me
 A couple of years ago, I became interested in development as a hobby, studied independently on online courses and reference books, liked it and decided to become a professional web developer
+
 ***
 
 ### Skils 
@@ -18,6 +20,7 @@ A couple of years ago, I became interested in development as a hobby, studied in
 * Javascript (basic)
 * Git
 * Figma / Photoshop
+
 ***
 
 ### Code example
@@ -33,16 +36,19 @@ function squareDigits(num){
   );
 }
 ```
+
 ***
 
 ### Experience
 
 [Combination game](https://github.com/Zheltishev/combination-game)
+
 ***
 
 ### Education 
 
 * Ryazan College of Electronics
+
 ***
 
 ### English 
